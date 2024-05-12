@@ -18,3 +18,18 @@
   <li>Configurações</li>
 </ul>
 </div>
+
+<p>Ao clicar em <strong>Notificações</strong>, aparece uma sessão com todas as notificações que o usuário possui naquele momento.</p>
+
+![image](https://github.com/Yoichiroo/projeto-rede-social/assets/109477475/e04bdf3d-ae16-489f-9da3-1e2808fc3eec)
+
+<p>Clicando em <strong>Mensagens</strong>, a sessão de mensagens logo na sidebar da direita fica com mais destaque, acompanhado de uma sombra mais escura para destacar a mesma.</p>
+
+![image](https://github.com/Yoichiroo/projeto-rede-social/assets/109477475/b5056287-1374-4292-a6e9-00acda8970a5)
+
+<p>Ainda na sessão de mensagens, podemos pesquisar por um nome aleatório, e o site irá buscar o mesmo para o nós. Caso haja alguma mensagem com este nome, o site irá mostrar na tela, caso não, não irá retornar nada.</p>
+
+![image](https://github.com/Yoichiroo/projeto-rede-social/assets/109477475/631648f8-028a-4c14-b278-f85cf162ff92)
+
+
+<p>Importante ressaltar que o feed de publicações é infinito e o cabeçalho e as barras laterais ficam fixos à tela em relação com a rolagem da mesma.</p>
