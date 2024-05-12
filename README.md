@@ -1,3 +1,6 @@
+<h1>NexusSocial</h1>
+<hr>
+
 <p>Criei uma rede social chamada de NexusSocial, onde utilizo o layout do Facebook como inspiração para fazer o meu próprio.</p>
 
 <p>Esta é a home:</p>
