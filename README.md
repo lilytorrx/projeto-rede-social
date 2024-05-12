@@ -29,7 +29,6 @@
 
 <p>Ainda na sessão de mensagens, podemos pesquisar por um nome aleatório, e o site irá buscar o mesmo para o nós. Caso haja alguma mensagem com este nome, o site irá mostrar na tela, caso não, não irá retornar nada.</p>
 
-![image](https://github.com/Yoichiroo/projeto-rede-social/assets/109477475/631648f8-028a-4c14-b278-f85cf162ff92)
-
+![image](https://github.com/Yoichiroo/projeto-rede-social/assets/109477475/f495a668-5931-41a5-b506-b90c784a2c3a)
 
 <p>Importante ressaltar que o feed de publicações é infinito e o cabeçalho e as barras laterais ficam fixos à tela em relação com a rolagem da mesma.</p>
